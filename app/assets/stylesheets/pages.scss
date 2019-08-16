@@ -1,0 +1,26 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.container {
+}
+
+.first-container {
+  height: 400px;
+  padding-top: 100px;
+}
+
+.second-container {
+  // display: inline;
+}
+
+.second-container-left {
+  background: red;
+  // float: left;
+  // display: inline;
+}
+
+.second-container-right {
+  background: blue;
+  // float: right;
+  // display: inline;
+}
